@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm I Made Surya Adi Palguna</h1>
 <h3 align="center">I’m interested in Fullstack Developer and Web Developer. Beside that, I also explore new things that are used in solving problems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suryaadipalguna&label=Profile%20views&color=0e75b6&style=flat" alt="suryaadipalguna" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=suryaadipalguna&label=Profile%20views&color=0e75b6&style=flat" alt="suryaadipalguna" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suryaadipalguna" alt="suryaadipalguna" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suryaadipalguna" alt="suryaadipalguna" /></a> </p>-->
 
-- 🔭 I’m currently working on [Informatics Udayana University](https://if.unud.ac.id/)
+- 🔭 I’m currently studying at [Informatics Udayana University](https://if.unud.ac.id/)
 
 - 🌱 I’m currently learning **Bootstrap, React, Laravel**
 
-- 👯 I’m looking to collaborate on [BEM FMIPA Udayana](https://bemfmipaunud.com/)
+- 👯 I’m currently an active member of [BEM FMIPA Udayana](https://bemfmipaunud.com/)
 
 - 💬 Ask me about **Web, Programming**
 
